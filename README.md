@@ -12,8 +12,11 @@ Toets een willekeurige knop op je toetsenbord.
 Op de commands pagina kan je de volgende dingen doen: 
 
 • Zaad planten 
+
 • Water geven 
-• Naar de volgende dag gaan  
+
+• Naar de volgende dag gaan 
+
 • Plant plukken 
 
 
