@@ -1,10 +1,3 @@
-De twee projecten waar ik het meeste kennis aan hebt overgelaten, staan in de 'Finished Projects' folder.
-PlantSim is een Csharp project en Sensor logging is een embedded systeem project grotendeels geschreven in JavaScript. 
-Alleen het hele project van PlantingSim is beschikbaar als een CSharp project.  
-Hieronder staan de instructies.
-
-
-
 INSTRUCTIES 
 
 Je start op de voorpagina.  
