@@ -11,10 +11,10 @@ Je start op de voorpagina.
 Toets een willekeurige knop op je toetsenbord. 
 Op de commands pagina kan je de volgende dingen doen: 
 
-	• Zaad planten 
-	• Water geven 
-	• Naar de volgende dag gaan  
-	• Plant plukken 
+• Zaad planten 
+• Water geven 
+• Naar de volgende dag gaan  
+• Plant plukken 
 
 
 Commands: 
